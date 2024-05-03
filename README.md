@@ -26,9 +26,8 @@ In this course, I've developed key skills in handling data within iOS apps using
 - **Purpose:** Displays a confirmation alert on selecting a dish.
 - **Method:** Triggered by user interaction with UI elements.
 
-  
-https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a4c201d4-ec44-44d1-aedb-7ed4e2d5fcbd
+![Screenshot 2024-05-03 at 12 40 41](https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/5e5e6c45-546c-416f-a758-f00276f30d8f)
 
-https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/5e5e6c45-546c-416f-a758-f00276f30d8f
+![Screenshot 2024-05-03 at 12 40 14](https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a415d7de-3757-4bcb-bb61-adbc70ed242e)
 
-https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a415d7de-3757-4bcb-bb61-adbc70ed242e
+![Screenshot 2024-05-03 at 12 39 50](https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a4c201d4-ec44-44d1-aedb-7ed4e2d5fcbd)
