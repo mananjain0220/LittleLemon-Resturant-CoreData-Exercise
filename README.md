@@ -28,6 +28,7 @@ In this course, I've developed key skills in handling data within iOS apps using
 
 <p align="center">
   <img src="https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/5e5e6c45-546c-416f-a758-f00276f30d8f" width="30%" />
-  <img src="https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a415d7de-3757-4bcb-bb61-adbc70ed242e" width="30%" /> </p>
-  <img src="https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a4c201d4-ec44-44d1-aedb-7ed4e2d5fcbd" width="30%" />
+   <img src="https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a4c201d4-ec44-44d1-aedb-7ed4e2d5fcbd" width="30%" />
+   </p><img src="https://github.com/mananjain0220/CoreData-Exercise/assets/19812569/a415d7de-3757-4bcb-bb61-adbc70ed242e" width="30%" />
+ 
 
